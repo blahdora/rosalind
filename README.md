@@ -1,4 +1,4 @@
-# Rosalind Algorithm Solutions and Explanations
+# Rosalind Solutions and Explanations
 This repository contains the solutions and explanations to the problems on Rosalind.
 
 ## Table of Contents
@@ -7,7 +7,7 @@ Solutions
 Contributing
 
 ## Introduction
-Welcome to the Rosalind Algorithm Solutions and Explanations repository! This project aims to provide clear, well-documented solutions to the problems on the Rosalind platform. 
+Welcome to the Rosalind Solutions and Explanations repository! This project aims to provide clear, well-documented solutions to the problems on the Rosalind platform. 
 
 ## Solutions
 Each problem is located in its respective directory, with the following structure:
