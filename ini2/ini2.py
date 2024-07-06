@@ -1,4 +1,6 @@
-with open("rosalind_ini2.txt", "r") as file:
+# Link: https://rosalind.info/problems/ini2/
+
+with open("rosalind_ini2.txt", "r") as file: 
     lines = file.readlines()
 legs = lines[0].strip()
 legs_array = legs.split(" ")
