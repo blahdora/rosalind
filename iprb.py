@@ -1,8 +1,5 @@
 with open('rosalind_iprb.txt', 'r') as f:
-    lines = f.readlines()
-
-line = lines[0].split(" ")
-k, m, n = int(line[0]), int(line[1]), int(line[2])
+    k, m, n = map(int, f.readline().split(" "))
 
 org = k+m+n
 Pk = (k/org) *((k-1) / (org-1)) 
