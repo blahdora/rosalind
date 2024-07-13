@@ -1,3 +1,5 @@
+# Link: https://rosalind.info/problems/cons/ 
+
 import numpy as np
 from Bio import SeqIO # Using multiple sequences so preferred over Seq
 
