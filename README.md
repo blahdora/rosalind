@@ -25,4 +25,14 @@ Rosalind is a platform for learning bioinformatics and programming through probl
     pip install -r requirements.txt
     ```
 
+Alternatively, you can use conda environment.
+
+1. Install Miniconda or Anaconda.
+
+2. Create and activate the conda environment.
+    ```
+    conda env create -f environment.yml
+    conda activate <environment_name>
+    ```
+
 Now your Rosalind project is set up with a virtual environment, ensuring a consistent and conflict-free development environment. You can download the relevant datasets from Rosalind and run the python scripts.
