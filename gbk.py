@@ -1,5 +1,4 @@
 from Bio import Entrez
-from datetime import datetime
 
 with open("rosalind_gbk.txt", "r") as f:
     lines = f.read().strip().split('\n')
